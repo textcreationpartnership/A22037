@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God, of England, Scotland, France and Ireland King, defender of the faith, [et]c. know ye that we of our speciall grace, certaine knowledge and meere motion, [et]c. haue giuen licence, liberty, power and authority and by these presents for us, our heires and successors do giue licence, liberty, power and authority vnto our welbeloued seruant sir Edward Hobbie knight  ...</title>
+            <title>Proclamations. 1607-08-21</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22037</idno>
+            <idno type="STC">STC 8403</idno>
+            <idno type="STC">ESTC S121571</idno>
+            <idno type="EEBO-CITATION">99856750</idno>
+            <idno type="PROQUEST">99856750</idno>
+            <idno type="VID">22374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1171:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God, of England, Scotland, France and Ireland King, defender of the faith, [et]c. know ye that we of our speciall grace, certaine knowledge and meere motion, [et]c. haue giuen licence, liberty, power and authority and by these presents for us, our heires and successors do giue licence, liberty, power and authority vnto our welbeloued seruant sir Edward Hobbie knight  ...</title>
+                  <title>Proclamations. 1607-08-21</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James, I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[1] leaf ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A 15-year patent to Sir Edward Hoby to buy and sell 500 seplars of wool a year free from statutory penalties.--Cf. STC.</note>
+                  <note>Reproduction of the original in the Queen's College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hoby, Edward, --  Sir, 1560-1617 --  Early works to 1800.</term>
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:22374:1" rendition="simple:additions"/>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES by the grace of God, of England, Scotland, France and Ireland King,</hi> defender of the Faith, &amp;c.</signed>
+            </opener>
+            <p>Know ye that we of our ſpeciall Grace, certaine knowledge and meere motion, &amp;c. Haue giuen Licence, liberty, power and authority, and by theſe Preſents for vs, our heires and ſucceſſors do giue Licence, liberty, power and authority vnto our welbeloued ſeruant ſir <hi>Edward Hobbie</hi> knight, his Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, Aſſignes, Factors and deputies, and to euery of them, that he and they and euery or any of them, by themſelues may prouide and buy, or cauſe to be prouided and bought yerely during the ſpace of fifteene yeeres next enſuing the date hereof, in any place or places within the Counties of Warwicke, Stafford, Salop, Northampton, Leiceſter, Nottingham, Darby, Lincolne Rutland, Cambridge, Hun<g ref="char:EOLhyphen"/>tington, Lancaſter, Hertford, Buckingham, Bedford, Hereford or Monmouth, or any of them, or in any of the Counties within North wales or South wales, at one time or ſeuerall times at his and their pleaſure and libertie, ſo much wooll as in the whole in any one yeere ſhall not exceed the number and quantity of fiue hundred Seplars of Engliſh or Welſh woolls; So as the ſame bee prouided and bought, and euery part thereof be beſtowed and kept in any County or Counties, where Clothes, Bayes or Kerſies are vſually vſed to be made, or in the City of Norwich, &amp;c. And that the ſame and euery part thereof be by them ſold in any of the ſaid Counties, place or City of Norwich, which ſhall and may there be done vnto any our Subiects or other perſon or perſons whatſoeuer, to the moſt profit and aduantage of the ſaid ſir <hi>Ed<g ref="char:EOLhyphen"/>ward Hobby,</hi> his Executors, Adminiſtrators or Aſſignes, without incurring any danger, forfaiture or penaltie, one Act made in the fifth yere of the late King <hi>Edward the ſixt,</hi> late King of England, or any other Act, Statute, Acts or Statutes, Lawes, Cuſtome, Proclamation, Or<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inance, reſtraint or Commandement heretofore made by vs, or any our Progenitors, or hereafter by vs our heires or ſucceſſors to be made to the contrary in any wiſe notwithſtanding. To haue and to hold, exerciſe and enioy the ſaid Licence, liberty, power and authoritie a<g ref="char:EOLhyphen"/>foreſaid, and all and ſingular the premiſes before by theſe preſents giuen and granted, or mentioned to be giuen and granted vnto the ſaid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir <hi>Edward Hobbie</hi> Knight as is aforeſaid, to the ſame <hi>Edward Hobbie</hi> Knight, his Executors, Adminiſtrators, Deputies and Aſſignes, from the day of the date hereof, vntill the full ende and terme of fifteene yeeres from thence next enſuing, and fully to bee complete and ended. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eelding and paying therefore yeerely, &amp;c.</p>
+            <p>And further in conſideration of the yeerely rent before in and by theſe preſent reſerued and payable to vs, our heires and ſucceſſors as is aforeſaid, and to the intent that he the ſaid ſir <hi>Edward Hobby</hi> Knight, his Executors, Adminiſtrators and Aſſignes, may be the better able to pay to Vs, our heires and ſucceſſors, the ſaid Rent or ſumme by theſe preſents reſerued or mentioned to be payd, We doe by theſe preſents for vs, our heires and ſucceſſors, promiſe and grant to and with the ſaid <hi>Edward Hobby</hi> Knight, his executors, adminiſtrators and Aſſignes, That we, our heires or ſucceſſors, or any of vs, ſhall not, or will not make or grant any further or other Licence, grant or Letters patents after the date of theſe preſents, during the continuance of this our Grant or Licence, to any other perſon or perſons whatſoeuer, for, or con<g ref="char:EOLhyphen"/>cerning the buying of any Woolls, to the intent to ſell or vtter the ſame againe by Retaile or other wiſe. Wherefore wee doe by theſe pre<g ref="char:EOLhyphen"/>ſents for Vs our heires and ſucceſſors, ſtraightly charge and command all our louing Subiects, as they tender our pleaſure, and vpon paine of our diſpleaſure, that they permit and ſuffer the ſaid <hi>Edward Hobby</hi> Knight, his Excutors, Adminiſtrators, Factors and Deputies, and euery of them to vſe, exerciſe and execute the ſaid Licences, powers and priuileges, in theſe preſents mentioned, and to take the ſaid benefit hereof to his and their proper vſe, according to the tenour and effect of theſe preſents, without let, diſturbance or interruption of them or any of them. Willing and requiring all Iuſtices of Peace<g ref="char:punc">▪</g> Maiors, and other our miniſters and Officers where any perſon ſhall be found di<g ref="char:EOLhyphen"/>ſturbing or reſiſting the execution of the Licence, liberties, powers or priuileges mentioned in theſe our Letters Pattents, or any of them, becauſe the ſame diſturbers and reſiſters from time to time to be attached as contemners of our Regall power and authoritie, and to bee impriſoned vntill they ſhall become bound with ſufficieut Sureties to obey theſe our Letters Patents, and not to diſturbe, interrupt or reſiſt the execution of them.</p>
+            <p>And further we doe for Vs, our heires and ſucceſſors ſtraightly charge, command and prohibite all and euery our louing Subiects, that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one of them doe ſue, implead or vexe in any Court of Record whatſoeuer the ſaid ſir <hi>Edward Hobby</hi> Knight, his Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors, Aſſignes, Factors and Deputies or any of them, for any concerning buying of Woolls, to the intent to ſell them againe by Retaile or otherwiſe, ſo long as the ſayd Woolls ſhall bee bought and ſolde and vttered, according to the true intent of this our preſent Licence and Graunt. And if any Suite ſhall be brought or proſecuted in any Court of Record againſt the ſaid ſir <hi>Edward Hobby</hi> Knight, his Execu<g ref="char:EOLhyphen"/>tors, Adminiſtrators, Aſſignes, Deputies and Factors or any of them vpon any Statute or Ordinance whatſoeuer, made againſt engroſ<g ref="char:EOLhyphen"/>ſing and buying of Woolls, to the intent to ſell them againe by Retaile, or otherwiſe, then and ſo often we doe by theſe preſents for Vs our Heires and Succeſſors, will, charge and require all and euery Iuſtices and Iudges, of Vs our Heires and Succeſſors, of all and euery Courts of Record of Vs, our Heires and Succeſſors, where any ſuch Suite ſhall be brought and proſecuted, and the Barons of the Exche<g ref="char:EOLhyphen"/>quer, of Vs, our heires and ſucceſſors, that they and euery of them ſhall vſe and imploy the vttermoſt of their Authoritie, &amp; take all courſes, and doe all things which may ſtand with Law and Iuſtice, for the ſpeedy ſtopping, repreſſing and exſtinguiſhing of all clamorous and con<g ref="char:EOLhyphen"/>tentious Suites and troubles, which may in any wiſe tend to the hinderance of the execution of this our Licence and Letters Pattents, or to the impeaching or derogating from our prerogatiue Royall in the graunting of the ſame. And yet neuertheleſſe our will and plea<g ref="char:EOLhyphen"/>ſure is, that if it ſhall appeare or be alleadged, that this our preſent Licence is or ſhall be exceeded, or apparantly abuſed, then our ſaid Iu<g ref="char:EOLhyphen"/>ſtices, Iudges and Barons ſhall or may proceed to the examination thereof, and puniſhment for ſuch exceſſe, or apparant abuſe, according to the Lawes and Statutes of this our Realme.</p>
+            <p>And further alſo we doe by theſe preſents will and command the Treaſurour, Chancellour, and Barons of the Exchequer, of Vs, our heires and ſucceſſours, vpon the complaint of the ſayd ſir <hi>Edward Hobby,</hi> his Executours Adminiſtratours and Aſſignes, Factors and De<g ref="char:EOLhyphen"/>puties, and euery of them at all times during the ſayd Terme, to aſſiſt, protect and defend the ſaid ſir <hi>Edward Hobby,</hi> his Executors, Admi<g ref="char:EOLhyphen"/>niſtrators and Aſſignes, Factors and Deputies, &amp; euery of them, in all things needfull and neceſſary, touching the lawfull exerciſe and vſing of this our Licence and Grant for buying of Woolls as aforeſayd, by all ſuch wayes and meanes, as to their diſcretion ſhall ſeeme meete and agreeable to the Lawes of this our Realme.</p>
+            <p>And foraſmuch as it is found very profitable for our Realme of England, that the ſayd Statute made in the fift yeere of the Raigne of the late King <hi>Edward the ſixt,</hi> ſhould in other places of our Realme elſe where then within the Counties and places before mentioned be ob<g ref="char:EOLhyphen"/>ſerued and kept, and to the end that other our louing Subiects in any places or Counties within our Realme, beſide the ſaid ſir <hi>Edward Hobby</hi> ſhould not be encouraged to breake the ſaide Statute in regrating and engroſſing Woolls, Wee therefore doe by theſe preſents for Vs, our heires, ſtraightly charge, command, prohibite all and euery our louing Subiects other then the ſayd ſir <hi>Edward Hobby,</hi> his Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, Deputies and Factors during the continuance of this our Graunt, that they nor any of them during the Terme a<g ref="char:EOLhyphen"/>foreſaid, doe preſume to buy and ſell any maner of Woolls by way of regrating or engroſſing contrary to the ſaid Statute, vpon paine of the forfaitures in the ſayd Statute contained, and of Fine and impriſonment, and incurring our high diſpleaſure and indignation. And <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny man ſhall be found in any place within this our Realme, offending contrary to the ſaid Statute, and this our prohibition in regra<g ref="char:EOLhyphen"/>ting or engroſſing of Woolls, then We doe by theſe preſents for Vs, our heires and ſucceſſors ſtraightly charge and command all Iuſtices of Peace, Maiors, Bayliffes, and all other our Officers and Miniſters, to whom it ſhall appertaine, to attach all ſuch perſons as ſhall bee found ſo offending contrary to the ſayd Statute, and this our Prohibition, and cauſe to be committed them, and euery of them to priſon, vntill they ſhall become bound with ſufficient Sureties for their good behauiours, and not to buy any Woolls to ſell againe, contrary to the ſaid Statute, And not to be releaſed vntill they ſhew full conformitie and obedience to theſe our Letters Patents, &amp;c.</p>
+            <closer>
+               <dateline>Witneſſe our ſelfe at Weſtminſter <date>the one and twentieth day of Auguſt, in the ſift yeere</date> of our Raigne of England, France and Ireland, and of Scotland the one and fourtieth.</dateline>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maieſtie. ANNO 1607.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
